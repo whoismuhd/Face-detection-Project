@@ -1,0 +1,11 @@
+{
+  "confidence": 0.6,
+  "enable_emotion": true,
+  "enable_age_gender": false,
+  "blur_faces": false,
+  "enable_recognition": false,
+  "min_quality": 0.3,
+  "frame_skip": 0,
+  "face_db": "face_database.json"
+}
+
